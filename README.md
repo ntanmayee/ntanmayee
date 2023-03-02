@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanmayee 👋 
 
-I work on computational models to understand the interplay of epigenomics and gene regulation. There's more about me here - [website](https://ntanmayee.github.io/).
+I work on computational models to understand the interplay of epigenomics and gene regulation. There's more about me on my [website](https://ntanmayee.github.io/).
 
 <p align='center'>
   
