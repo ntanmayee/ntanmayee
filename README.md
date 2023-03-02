@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Tanmayee 👋 
 
-<!--
-**ntanmayee/ntanmayee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on computational models to understand the interplay of epigenomics and gene regulation. There is more about me on my [website](https://ntanmayee.github.io/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  
+  <a href="https://scholar.google.com/citations?user=1j8wLtMAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/tanmayeenarendra/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://orcid.org/0000-0002-6371-1964">
+    <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
