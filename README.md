@@ -1,6 +1,8 @@
 ### Hi, I'm Tanmayee 👋 
 
-I work on computational models to understand epigenomics and gene regulation. My long term research goal is to causally characterise cell-type specificity. There's more about me on my [website](https://ntanmayee.github.io/).
+I work on computational models to understand epigenomics and gene regulation. My long term research goal is to build an integrative model to causally characterise cell-type specific behaviour. 
+
+Check out my [website](https://ntanmayee.github.io/)! It has more information about me and my work.
 
 <p align='center'>
   
